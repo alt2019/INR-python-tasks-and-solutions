@@ -1,2 +1,2 @@
 # INR-python-tasks-and-solutions
-Solutions to the introductory python tasks (INR)
+Introductory python 3 course in russian with tasks and solutions to them. 
